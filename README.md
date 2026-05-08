@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1774" height="887" alt="githublogo" src="https://github.com/user-attachments/assets/2a803b63-f32f-46a9-98ed-5ccc50f40bef" />
+
+I'm Samuel Vivas, an AI Engineering student from Venezuela 🇻🇪 focused on AI systems, automation, and scalable machine learning infrastructure. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
+
+#### Current Focus
+
+- Learning C++ and low-level systems programming
+- Building an AI-powered long-term investor co-pilot
+- Exploring LLMs, agents, and infrastructure
