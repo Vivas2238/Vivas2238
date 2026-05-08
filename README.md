@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-
 I'm Samuel Vivas, an AI Engineering student from Venezuela 🇻🇪 focused on AI systems, automation, and scalable machine learning infrastructure. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
 
 #### Current Focus
