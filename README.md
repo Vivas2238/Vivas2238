@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <img width="1774" height="887" alt="githublogo" src="https://github.com/user-attachments/assets/2a803b63-f32f-46a9-98ed-5ccc50f40bef" />
 
+<br><br><br>
 
 I'm Samuel Vivas, an AI Engineering student from Venezuela 🇻🇪 focused on AI systems, automation, and scalable machine learning infrastructure. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
 
