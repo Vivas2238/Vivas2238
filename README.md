@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 <!--
 **Vivas2238/Vivas2238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Samuel Vivas, an AI Engineering student from Venezuela 🇻🇪 focused on AI systems, automation, and scalable machine learning infrastructure. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
+I'm Samuel Vivas, an AI Engineering student from Venezuela 🇻🇪 focused on machine learning systems, backend engineering, and production AI systems. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
 
 #### Current Focus
 
-- Learning C++ and low-level systems programming
-- Building an AI-powered long-term investor co-pilot
-- Exploring LLMs, agents, and infrastructure
+- Strengthening Python, Linux, SQL, and backend engineering fundamentals
+- Building production-oriented FastAPI and ML projects
+- Exploring PyTorch, model serving, and observability
+- Developing an AI-powered long-term investor co-pilot
