@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Samuel Vivas, an AI Engineering student from Venezuela 🇻🇪 focused on machine learning systems, backend engineering, and production AI systems. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
+I'm Sam, an AI Engineering student from Venezuela 🇻🇪 focused on machine learning systems, backend engineering, and production AI systems. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
 
 #### Current Focus
 
