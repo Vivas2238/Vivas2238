@@ -2,4 +2,4 @@ I'm Sam, an AI Engineering student from Venezuela 🇻🇪 building production-g
 
 [![X](https://img.shields.io/badge/X-@Vivas__2238-000000?style=for-the-badge&logo=x)](https://x.com/Vivas_2238)
 [![Instagram](https://img.shields.io/badge/Instagram-@vivas.2238-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivas.2238/)
-[![My Blog](https://img.shields.io/badge/Blog-vivas.bearblog.dev-39E09B?style=for-the-badge&labelColor=101010)](https://vivas.bearblog.dev/)
+[![My Blog](https://img.shields.io/badge/My%20Blog-vivas.bearblog.dev-000000?style=for-the-badge&labelColor=000000)](https://vivas.bearblog.dev/)
