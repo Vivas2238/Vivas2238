@@ -1,2 +1,4 @@
-I'm Sam, an AI Engineering student from Venezuela 🇻🇪 building production-grade AI systems for the energy industry. Focused on machine learning, backend engineering, MLOps, data engineering, and industrial AI. Studying at <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSluAx3zbNVK7Nme44Dv94eKNJjrtCcuqv5ZLV0i6OKk-VJTYl_qCrpnESt%26s%3D10">
+I'm Sam, an AI Engineering student from Venezuela 🇻🇪 building production-grade AI systems for the energy industry. Focused on machine learning, backend engineering, MLOps, data engineering, and industrial AI. Studying at <a href="https://unc.edu.ve" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQirojL4KtzRUbuNUNg3vWyWVt8USuWmCx05HIFtIN7MQ&s=10" alt="Universidad Nacional de las Ciencias" height="60">
+</a>
 
