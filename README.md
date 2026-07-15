@@ -1,1 +1,1 @@
-I'm Sam, an AI Engineering student from Venezuela 🇻🇪 building production-grade AI systems for the energy industry. Focused on machine learning, backend engineering, MLOps, data engineering, and industrial AI. Studying at [Universidad Nacional de las Ciencias](https://unc.edu.ve/)
+
