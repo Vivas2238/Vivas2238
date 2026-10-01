@@ -1,3 +1,5 @@
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/26e90be2-8744-49a6-bf51-729e258f1a17" />
+
 I'm Sam, an AI Engineering student from Venezuela 🇻🇪 building production-grade AI systems for the energy industry. Focused on machine learning, backend engineering, MLOps, data engineering, and industrial AI.
 
 [![X](https://img.shields.io/badge/X-@Vivas__2238-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/Vivas_2238)
